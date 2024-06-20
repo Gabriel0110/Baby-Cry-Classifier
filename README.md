@@ -4,7 +4,7 @@ The Baby Cry Classifier is an application designed to classify different types o
 Models were built using the open-source dataset found here: https://www.kaggle.com/datasets/bhoomikavalani/donateacrycorpusfeaturesdataset  
 
 # Features
-- Real-time classification of baby cries.
+- Classification of baby cries (currently set to 4-second audio capture intervals for classification)
 - Multiple TensorFlow Lite models are used in a 'stacking' method in an attempt to obtain an accurate prediction.
 - Secure access to the Streamlit dashboard using Nginx reverse proxy.
 - Automated email notifications for application status changes.
