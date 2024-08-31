@@ -62,7 +62,7 @@ After running the Docker container, the application will:
 - Start the Streamlit dashboard on port 8501.
 - Start the Nginx server on port 8080.
 - Access the Streamlit Dashboard
-- Open your browser and navigate to http://<your-host-ip>:8080.  
+- Open your browser and navigate to http://your-host-ip:8080.  
 
 ## Viewing Predictions
 The Streamlit dashboard provides real-time updates on the latest cry predictions and a historical view of all detections.  
